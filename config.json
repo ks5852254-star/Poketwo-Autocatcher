@@ -1,8 +1,8 @@
 {
   "ocrSpaceApiKey" : "Put Your OCR SPACE KEY", 
-  "spamChannelID" : "Put Your Spam Channel ID", 
-  "logChannelID" : "Put Your Log Channel ID", 
-  "errorChannelID" : "Put Your Error Channel ID", 
+  "spamChannelID" : "1513066420429389967", 
+  "logChannelID" : "1510034658358988940", 
+  "errorChannelID" : "1513067523350990888", 
   "OwnerID" : "Put Your Main Account ID",
   "TOKEN" : "Put Your TOKEN(if in replit , I'd recommend to put it in secret rather than here)"
 }
